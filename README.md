@@ -10,4 +10,5 @@ Le site web permettant de visionner quelques informations présentes dans la BDD
 Pour finir, le schéma MCD et MLD sont trouvables dans le fichier "Association.loo" ouvrable avec le logiciel Looping.
 
 Cordialement,
-Mamadou.D
+DIARRA Mamadou
+BENBOUZIANE Imane
