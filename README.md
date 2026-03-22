@@ -29,7 +29,7 @@ Des tables d'association sont également utilisées pour gérer les relations en
 
 ## Comment utiliser
 
-1.  Utilisez le fichier `ScriptSQL.sql` pour créer la base de données dans votre système de gestion de base de données (par exemple : MySQL, PostgreSQL...).
+1.  Utilisez le fichier `ScriptSQL.sql` pour créer la base de données dans votre système de gestion de base de données (par exemple : MySQL, PostgreSQL...)
 2.  Utiliser les requêtes dans `Requetes_VuesSQL.sql` pour remplir la base de données
 
 DIARRA Mamadou
