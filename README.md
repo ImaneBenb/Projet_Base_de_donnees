@@ -31,17 +31,6 @@ Des tables d'association sont également utilisées pour gérer les relations en
 
 1.  Utilisez le fichier `ScriptSQL.sql` pour créer la base de données dans votre système de gestion de base de données (par exemple : MySQL, PostgreSQL...).
 2.  Utiliser les requêtes dans `Requetes_VuesSQL.sql` pour remplir la base de données
-3.  
 
-Vous pourrez trouver le rapport de projet sous le nom de "Rapport_projet_BDD---.pdf".
-
-Le script d'ajout des tables pour la base de données s'appelle "ScriptSQL.sql".
-Le script d'implémentation des données pour alimenter les tables s'appelle "Requetes_VuesSQL.sql".
-
-Le site web permettant de visionner quelques informations présentes dans la BDD pour l'équipe de SOC se trouve dans le dossier sous format zip "HTML_CSS_PHP.zip".
-
-Pour finir, le schéma MCD et MLD sont trouvables dans le fichier "Association.loo" ouvrable avec le logiciel Looping.
-
-Cordialement,
 DIARRA Mamadou
 BENBOUZIANE Imane
