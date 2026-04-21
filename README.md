@@ -24,13 +24,16 @@ Des tables d'association sont également utilisées pour gérer les relations en
 *   `ScriptSQL.sql`: Ce fichier contient le script SQL pour créer la structure de la base de données et insérer des données d'exemple
 *   `Requetes_VuesSQL.sql`: Ce fichier contient le script d'implémentation des données pour alimenter les tables et de vues de la base de données
 *   `Rapport_projet_BDD---.pdf`: Rapport de projet
-*   `HTML_CSS_PHP.zip`: Contient le site web permettant de visionner quelques informations présentes dans la BDD pour l'équipe de SOC
-*   `Association.loo`: les schéma MCD et MLD de la base de données ouvrable avec le logiciel Looping.
+*   `HTML_CSS_PHP.zip`: Contient la page web permettant de visionner quelques informations présentes dans la BDD pour l'équipe de SOC
+*   `Association.loo`: les schéma MCD et MLD de la base de données ouvrable avec le logiciel Looping
 
-## Comment utiliser
+## Instructions d'utilisation
 
 1.  Utilisez le fichier `ScriptSQL.sql` pour créer la base de données dans votre système de gestion de base de données (par exemple : MySQL, PostgreSQL...)
 2.  Utiliser les requêtes dans `Requetes_VuesSQL.sql` pour remplir la base de données
+3.  Ouvrir la page web dans `HTML_CSS_PHP.zip` pour visualiser les données de la base de données
+
+## Auteurs
 
 DIARRA Mamadou
 BENBOUZIANE Imane
